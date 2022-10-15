@@ -28,6 +28,6 @@ module.exports = {
     new HtmlWebPackPlugin({
       template: './src/index.html',
       filename: './index.html',
-    })
+    }),
   ],
 };

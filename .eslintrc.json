@@ -11,6 +11,12 @@
         "LabeledStatement",
         "WithStatement"
       ],
-      "linebreak-style": 0
+      "no-new": "off",
+      "no-console": "off",
+      "import/no-named-as-default": 0,
+      "import/no-named-as-default-member": 0
+    },
+    "parserOptions": {
+      "ecmaVersion": 13
     }
 }
